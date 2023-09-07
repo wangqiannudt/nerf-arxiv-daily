@@ -47,7 +47,8 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update NeRF Arxiv Papers"
-          files: README.md docs/nerf-arxiv-daily.json docs/nerf-arxiv-daily-web.json docs/index.md docs/nerf-arxiv-daily-wechat.json docs/wechat.md
+          #files: README.md docs/nerf-arxiv-daily.json docs/nerf-arxiv-daily-web.json docs/index.md docs/nerf-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md nerf-arxiv-daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
