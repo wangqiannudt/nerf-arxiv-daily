@@ -30,3 +30,12 @@
 
 <p align=right>(<a href=#updated-on-20230907>back to top</a>)</p>
 
+[contributors-shield]: https://img.shields.io/github/contributors/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/issues
+
