@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
+    - cron:  "0 0/6 * * *"  #'*/60 * * * *'
 env:
 
   GITHUB_USER_NAME: AliTheFox86
