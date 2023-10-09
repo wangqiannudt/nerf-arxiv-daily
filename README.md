@@ -29,7 +29,7 @@
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
-|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684](http://arxiv.org/abs/2310.00684)|null|
+|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684](http://arxiv.org/abs/2310.00684)|**[link](https://github.com/psc0628/nerf-prv)**|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530](http://arxiv.org/abs/2310.00530)|null|
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
