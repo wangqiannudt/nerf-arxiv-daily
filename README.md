@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
+|**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/abs/2311.03965)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
+|**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484](http://arxiv.org/abs/2311.03484)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140](http://arxiv.org/abs/2311.03140)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
