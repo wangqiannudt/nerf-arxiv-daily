@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
