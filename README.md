@@ -17,9 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
+|**2023-12-20**|**Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method**|Qihang Fang et.al.|[2312.12726](http://arxiv.org/abs/2312.12726)|**[link](https://github.com/qihanggh/closed-form-color-field)**|
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122](http://arxiv.org/abs/2312.12122)|null|
-|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
-|**2023-12-19**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
+|**2023-12-20**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
+|**2023-12-20**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
 |**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774](http://arxiv.org/abs/2312.11774)|null|
 |**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537](http://arxiv.org/abs/2312.11537)|null|
 |**2023-12-15**|**Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior**|Nan Huang et.al.|[2312.11535](http://arxiv.org/abs/2312.11535)|null|
