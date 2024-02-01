@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
@@ -334,7 +334,7 @@
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/graphs/contributors
