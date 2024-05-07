@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
+|**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
@@ -564,7 +564,7 @@
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 
-<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/graphs/contributors
