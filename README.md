@@ -432,7 +432,7 @@
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
-|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|**[link](https://github.com/gjgjgjfff/AG-NeRF)**|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
@@ -583,7 +583,7 @@
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058](http://arxiv.org/abs/2403.01058)|null|
 |**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228](http://arxiv.org/abs/2403.00228)|**[link](https://github.com/Xiaorui-Huang/DISORF)**|
-|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|**[link](https://github.com/yu-jingrui/NToP)**|
 |**2024-02-26**|**Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**|Xin Wang et.al.|[2402.17797](http://arxiv.org/abs/2402.17797)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
