@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**|Yingji Zhong et.al.|[2503.02230](http://arxiv.org/abs/2503.02230)|null|
