@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
 |**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
