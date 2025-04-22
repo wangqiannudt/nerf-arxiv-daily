@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
-|**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-19**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
@@ -1136,7 +1136,7 @@
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/graphs/contributors
