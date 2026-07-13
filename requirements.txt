@@ -1,3 +1,4 @@
 arxiv>=4.0,<5.0
+feedparser>=6.0,<7.0
 PyYAML>=6.0,<7.0
 requests>=2.32,<3.0

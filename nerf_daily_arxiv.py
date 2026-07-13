@@ -6,6 +6,9 @@ import yaml
 import logging
 import argparse
 import datetime
+from types import SimpleNamespace
+
+import feedparser
 import requests
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
@@ -16,6 +19,7 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 request_timeout = 20
+rss_url = "https://rss.arxiv.org/rss/cs.CV"
 
 def load_config(config_file:str) -> dict:
     '''
@@ -83,6 +87,51 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
+
+def get_rss_results(query:str, max_results:int):
+    """Use arXiv's official cs.CV RSS feed when the search API is throttled."""
+    response = requests.get(
+        rss_url,
+        timeout=request_timeout,
+        headers={"User-Agent": "nerf-arxiv-daily/1.0 (wangqian@nudt.edu.cn)"},
+    )
+    response.raise_for_status()
+    feed = feedparser.parse(response.content)
+    if feed.bozo:
+        raise ValueError(f"invalid arXiv RSS response: {feed.bozo_exception}")
+
+    terms = [term.strip().strip('"').lower() for term in query.split("OR")]
+    terms = [term for term in terms if term]
+    results = []
+    for entry in feed.entries:
+        title = entry.get("title", "").replace("\n", " ").strip()
+        summary = entry.get("summary", "").replace("\n", " ").strip()
+        if terms and not any(term in f"{title} {summary}".lower() for term in terms):
+            continue
+
+        paper_url = entry.get("link", "")
+        paper_id = paper_url.rstrip("/").rsplit("/", 1)[-1]
+        author_names = [author.get("name", "") for author in entry.get("authors", [])]
+        if not author_names and entry.get("author"):
+            author_names = [entry.author]
+        published = entry.get("published_parsed") or feed.feed.get("published_parsed")
+        published_dt = (
+            datetime.datetime(*published[:6]) if published else datetime.datetime.now()
+        )
+        results.append(SimpleNamespace(
+            get_short_id=lambda paper_id=paper_id: paper_id,
+            title=title,
+            entry_id=paper_url,
+            summary=summary,
+            authors=author_names or ["Unknown"],
+            primary_category="cs.CV",
+            published=published_dt,
+            updated=published_dt,
+            comment=None,
+        ))
+        if len(results) >= max_results:
+            break
+    return results
   
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -101,7 +150,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     # arxiv 4.x removed Search.results(); Client.results() is the supported API.
     client = arxiv.Client(page_size=max_results)
-    for result in client.results(search_engine):
+    client._session.headers.update({
+        "User-Agent": "nerf-arxiv-daily/1.0 (wangqian@nudt.edu.cn)"
+    })
+    try:
+        results = list(client.results(search_engine))
+    except arxiv.ArxivError as error:
+        logging.warning(f"arXiv search API failed ({error}); falling back to RSS")
+        results = get_rss_results(query, max_results)
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
