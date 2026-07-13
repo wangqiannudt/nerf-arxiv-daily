@@ -1527,3 +1527,4 @@
 [stars-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
 [issues-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/issues
+
