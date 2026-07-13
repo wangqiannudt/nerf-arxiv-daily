@@ -17,26 +17,306 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-23**|**Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field**|Yuzhe Zhu et.al.|[2507.17351](http://arxiv.org/abs/2507.17351)|null|
-|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
-|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
-|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
-|**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
-|**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
-|**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
-|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
-|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
-|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
-|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
-|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
-|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
-|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
-|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
-|**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
-|**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
-|**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
-|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
+|**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169](https://arxiv.org/abs/2607.04169)|null|
+|**2026-07-03**|**Fast 3D Foundation Model Initialized Gaussian Splatting**|Anurag Dalal et.al.|[2607.03209](https://arxiv.org/abs/2607.03209)|null|
+|**2026-06-27**|**Reliability-Aware Monocular Depth Supervision for Sparse-View Neural Reconstruction**|Wei-Teng Chu et.al.|[2607.02554](https://arxiv.org/abs/2607.02554)|null|
+|**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](https://arxiv.org/abs/2607.02099)|null|
+|**2026-07-01**|**Mind the Gap: Standard 3DGS Evaluation Primarily Measures Near-Trajectory Interpolation**|Gaoxiang Jia et.al.|[2607.01556](https://arxiv.org/abs/2607.01556)|null|
+|**2026-06-30**|**AugSplat: Radiance Field-Informed Gaussian Splatting for Sparse-View Settings**|Lorenzo Lazzaroni et.al.|[2606.31556](https://arxiv.org/abs/2606.31556)|null|
+|**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](https://arxiv.org/abs/2606.30352)|null|
+|**2026-06-25**|**Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN**|Archer Moore et.al.|[2606.27305](https://arxiv.org/abs/2606.27305)|null|
+|**2026-06-24**|**Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation**|Masaki Minai et.al.|[2606.25427](https://arxiv.org/abs/2606.25427)|null|
+|**2026-06-18**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova* et.al.|[2606.20531](https://arxiv.org/abs/2606.20531)|null|
+|**2026-06-17**|**One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model**|Shenjian Gong et.al.|[2606.19718](https://arxiv.org/abs/2606.19718)|null|
+|**2026-06-17**|**EDoF- NeRF : extended depth-of-field neural radiance fields using a coded aperture camera**|Yoshiyuki Shirasaki et.al.|[2606.18826](https://arxiv.org/abs/2606.18826)|null|
+|**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](https://arxiv.org/abs/2606.18153)|null|
+|**2026-06-15**|**Renderable Partial Representations for Dynamic Gaussian Splatting under Incomplete Delivery**|Faruk Alpay et.al.|[2606.17212](https://arxiv.org/abs/2606.17212)|null|
+|**2026-06-09**|**3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis**|Yuhao Wang et.al.|[2606.10478](https://arxiv.org/abs/2606.10478)|null|
+|**2026-06-08**|**Leveraging NeRF -Rendered Images for 3D Gaussian Splatting**|Mizuki Morikawa et.al.|[2606.09034](https://arxiv.org/abs/2606.09034)|null|
+|**2026-06-04**|**Liquid Neural Networks as a Drop-in Continuous-Time Deformation Field for Dynamic 3D Gaussian Splatting**|Mingzhao Li et.al.|[2606.07670](https://arxiv.org/abs/2606.07670)|null|
+|**2026-05-31**|**Sparse-View Lung Nodule Volumetry from Digitally Reconstructed Radiographs via AReT: Anatomy-Regularized TensoRF**|Spoorthi M et.al.|[2606.02639](https://arxiv.org/abs/2606.02639)|null|
+|**2026-06-01**|**VEDAL: Variational Error-Driven Asynchronous Learning for 3D Gaussian Splatting Pruning**|Aoduo Li et.al.|[2606.02346](https://arxiv.org/abs/2606.02346)|null|
+|**2026-06-01**|**Fast and Lightweight Novel View Synthesis with Differentiable Multiplane Image**|Kaidi Zhang et.al.|[2606.02068](https://arxiv.org/abs/2606.02068)|null|
+|**2026-05-31**|**DeblurNVS: Geometric Latent Diffusion for Novel View Synthesis from Sparse Motion-Blurred Images**|Changyue Shi et.al.|[2606.01315](https://arxiv.org/abs/2606.01315)|null|
+|**2026-05-29**|**Beyond Static Gaussians: An Empirical Investigation of Architectural Paradigms for Dynamic 3D Scene Reconstruction**|Adrian Ramlal et.al.|[2606.00452](https://arxiv.org/abs/2606.00452)|null|
+|**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](https://arxiv.org/abs/2605.30310)|null|
+|**2026-05-27**|**Eulerian Gaussian Splatting using Hashed Probability Pyramids**|Mia Gaia Polansky et.al.|[2605.29136](https://arxiv.org/abs/2605.29136)|null|
+|**2026-05-27**|**CLEAR- NeRF : Collinearity and Local-region Enhanced Accurate 3D Reconstruction in Unbounded Scenes**|Vladislav Polianskii et.al.|[2605.28125](https://arxiv.org/abs/2605.28125)|null|
+|**2026-05-24**|**Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering**|Keyang Ye et.al.|[2605.25345](https://arxiv.org/abs/2605.25345)|null|
+|**2026-05-22**|**ArtSplat: Feed-Forward Articulated 3D Gaussian Splatting from Sparse Multi-State Uncalibrated Views**|Inseo Lee et.al.|[2605.24304](https://arxiv.org/abs/2605.24304)|null|
+|**2026-05-20**|**Sketch2MinSurf: Vision-Language Guided Generation of Editable Minimal Surfaces from Hand-Drawn Sketches**|Wenda Wang et.al.|[2605.20733](https://arxiv.org/abs/2605.20733)|null|
+|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF -Based Augmentations**|Antoine Legrand et.al.|[2605.19649](https://arxiv.org/abs/2605.19649)|null|
+|**2026-05-20**|**NeRF -based Spacecraft Reconstruction from Monocular Imagery Under Illumination Variability and Pose Uncertainty**|Antoine Legrand et.al.|[2605.18447](https://arxiv.org/abs/2605.18447)|null|
+|**2026-05-14**|**Eff-WRFGS: Efficient Wireless Radiance Field Using 3D Gaussian Splatting**|Chenghong Bian et.al.|[2605.15324](https://arxiv.org/abs/2605.15324)|null|
+|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](https://arxiv.org/abs/2605.14629)|null|
+|**2026-05-12**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](https://arxiv.org/abs/2605.12919)|null|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](https://arxiv.org/abs/2605.12437)|null|
+|**2026-05-20**|**Predicting 3D structure by latent posterior sampling**|Azmi Haider et.al.|[2605.10830](https://arxiv.org/abs/2605.10830)|null|
+|**2026-05-12**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](https://arxiv.org/abs/2605.10360)|null|
+|**2026-05-10**|**Low-Cost Neural Radiance Fields**|Alice Huang et.al.|[2605.09312](https://arxiv.org/abs/2605.09312)|null|
+|**2026-05-06**|**Low-Cost Stereo Vision for Robust 3D Positioning of Thin Radiata Pine Branches in Autonomous Drone Pruning**|Yida Lin et.al.|[2605.08213](https://arxiv.org/abs/2605.08213)|null|
+|**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](https://arxiv.org/abs/2605.08035)|null|
+|**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](https://arxiv.org/abs/2605.07254)|null|
+|**2026-05-07**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](https://arxiv.org/abs/2605.07192)|null|
+|**2026-05-21**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](https://arxiv.org/abs/2605.02784)|null|
+|**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](https://arxiv.org/abs/2605.02086)|null|
+|**2026-05-01**|**GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space**|Yonghao Zhao et.al.|[2605.00498](https://arxiv.org/abs/2605.00498)|null|
+|**2026-05-11**|**Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting**|Zhenhua Ning et.al.|[2605.00408](https://arxiv.org/abs/2605.00408)|null|
+|**2026-04-30**|**RayFormer: Modeling Inter- and Intra-Ray Similarity for NeRF -Based Video Snapshot Compressive Imaging**|Yubo Dong et.al.|[2604.27702](https://arxiv.org/abs/2604.27702)|null|
+|**2026-05-04**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](https://arxiv.org/abs/2604.26899)|null|
+|**2026-04-17**|**Planar Gaussian Splatting with Bilinear Spatial Transformer for Wireless Radiance Field Reconstruction**|Jinghan Zhang et.al.|[2604.25945](https://arxiv.org/abs/2604.25945)|null|
+|**2026-04-27**|**Multivariate Gaussian NeRF for Wide Field-of-View Ultrasound Reconstruction**|Patris Valera et.al.|[2604.24187](https://arxiv.org/abs/2604.24187)|null|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](https://arxiv.org/abs/2604.21631)|null|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](https://arxiv.org/abs/2604.19127)|null|
+|**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](https://arxiv.org/abs/2604.18205)|null|
+|**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](https://arxiv.org/abs/2604.17965)|null|
+|**2026-04-20**|**PCM- NeRF : Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](https://arxiv.org/abs/2604.17831)|null|
+|**2026-04-29**|**Incoherent Deformation, Not Capacity: Diagnosing and Mitigating Overfitting in Dynamic Gaussian Splatting**|Ahmad Droby et.al.|[2604.16747](https://arxiv.org/abs/2604.16747)|null|
+|**2026-04-16**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](https://arxiv.org/abs/2604.16540)|null|
+|**2026-04-12**|**Positioning radiata pine branches requiring pruning by drone stereo vision**|Yida Lin et.al.|[2604.16480](https://arxiv.org/abs/2604.16480)|null|
+|**2026-04-17**|**Hybrid Latents: Geometry-Appearance-Aware Surfel Splatting**|Neel Kelkar et.al.|[2604.14928](https://arxiv.org/abs/2604.14928)|null|
+|**2026-04-16**|**NG-GS: NeRF -Guided 3D Gaussian Splatting Segmentation**|Yi He et.al.|[2604.14706](https://arxiv.org/abs/2604.14706)|null|
+|**2026-04-14**|**PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction**|Prajas Wadekar et.al.|[2604.13153](https://arxiv.org/abs/2604.13153)|null|
+|**2026-04-13**|**A Geometric Algebra-informed NeRF Framework for Generalizable Wireless Channel Prediction**|Jingzhou Shen et.al.|[2604.11983](https://arxiv.org/abs/2604.11983)|null|
+|**2026-04-12**|**Fast-SegSim: Real-Time Open-Vocabulary Segmentation for Robotics in Simulation**|Xuan Yu et.al.|[2604.10951](https://arxiv.org/abs/2604.10951)|null|
+|**2026-03-21**|**3D Multi-View Stylization with Pose-Free Correspondences Matching for Robust 3D Geometry Preservation**|Shirsha Bose et.al.|[2604.09639](https://arxiv.org/abs/2604.09639)|null|
+|**2026-04-06**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](https://arxiv.org/abs/2604.05366)|null|
+|**2026-04-03**|**Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices**|Kim Jun-Seong et.al.|[2604.02836](https://arxiv.org/abs/2604.02836)|null|
+|**2026-04-06**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](https://arxiv.org/abs/2604.02120)|null|
+|**2026-03-30**|**SVGS: Single-View to 3D Object Editing via Gaussian Splatting**|Pengcheng Xue et.al.|[2603.28126](https://arxiv.org/abs/2603.28126)|null|
+|**2026-06-24**|**To View Transform or Not to View Transform: NeRF -based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](https://arxiv.org/abs/2603.28090)|null|
+|**2026-03-29**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](https://arxiv.org/abs/2603.25008)|null|
+|**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](https://arxiv.org/abs/2603.22851)|null|
+|**2026-03-23**|**SatGeo- NeRF : Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](https://arxiv.org/abs/2603.21931)|null|
+|**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](https://arxiv.org/abs/2603.21695)|null|
+|**2026-03-27**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](https://arxiv.org/abs/2603.21356)|null|
+|**2026-03-28**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](https://arxiv.org/abs/2603.21332)|null|
+|**2026-03-20**|**GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction**|Di Kong et.al.|[2603.20611](https://arxiv.org/abs/2603.20611)|null|
+|**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428](https://arxiv.org/abs/2603.20428)|null|
+|**2026-03-20**|**Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives**|Wanqi Yuan et.al.|[2603.20128](https://arxiv.org/abs/2603.20128)|null|
+|**2026-03-26**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](https://arxiv.org/abs/2603.19682)|null|
+|**2026-03-18**|**Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction**|Devjyoti Chakraborty et.al.|[2603.18306](https://arxiv.org/abs/2603.18306)|null|
+|**2026-03-17**|**Neural Radiance Maps for Extraterrestrial Navigation and Path Planning**|Adam Dai et.al.|[2603.17236](https://arxiv.org/abs/2603.17236)|null|
+|**2025-12-31**|**SAC- NeRF : Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning**|Chenyu Ge et.al.|[2603.15622](https://arxiv.org/abs/2603.15622)|null|
+|**2026-03-15**|**E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction**|Yunsoo Kim et.al.|[2603.14684](https://arxiv.org/abs/2603.14684)|null|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](https://arxiv.org/abs/2603.12903)|null|
+|**2026-03-30**|**Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation**|Shifeng Chen et.al.|[2603.12766](https://arxiv.org/abs/2603.12766)|null|
+|**2026-03-13**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](https://arxiv.org/abs/2603.12078)|null|
+|**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](https://arxiv.org/abs/2603.09291)|null|
+|**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](https://arxiv.org/abs/2603.09277)|null|
+|**2026-07-01**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](https://arxiv.org/abs/2603.08997)|null|
+|**2026-03-09**|**Fast Low-light Enhancement and Deblurring for 3D Dark Scenes**|Feng Zhang et.al.|[2603.08133](https://arxiv.org/abs/2603.08133)|null|
+|**2026-03-06**|**Virtual Intraoperative CT (viCT): Sequential Anatomic Updates for Modeling Tissue Resection Throughout Endoscopic Sinus Surgery**|Nicole M. Gunderson et.al.|[2603.06956](https://arxiv.org/abs/2603.06956)|null|
+|**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](https://arxiv.org/abs/2603.05932)|null|
+|**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](https://arxiv.org/abs/2603.05473)|null|
+|**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](https://arxiv.org/abs/2603.04847)|null|
+|**2026-03-03**|**R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild**|Margherita Lea Corona et.al.|[2603.02801](https://arxiv.org/abs/2603.02801)|null|
+|**2026-03-02**|**Neural Electromagnetic Fields for High-Resolution Material Parameter Reconstruction**|Zhe Chen et.al.|[2603.02582](https://arxiv.org/abs/2603.02582)|null|
+|**2026-03-02**|**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**|Ilenia Carboni et.al.|[2603.01850](https://arxiv.org/abs/2603.01850)|null|
+|**2026-02-28**|**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**|Seemandhar Jain et.al.|[2603.00805](https://arxiv.org/abs/2603.00805)|null|
+|**2026-03-05**|**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**|Yuxuan Zhang et.al.|[2602.24096](https://arxiv.org/abs/2602.24096)|null|
+|**2026-03-30**|**Evidential Neural Radiance Fields**|Ruxiao Duan et.al.|[2602.23574](https://arxiv.org/abs/2602.23574)|null|
+|**2026-02-26**|**Sapling- NeRF : Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](https://arxiv.org/abs/2602.22731)|null|
+|**2026-02-25**|**Lie Flow: Video Dynamic Fields Modeling and Predicting with Lie Algebra as Geometric Physics Principle**|Weidong Qiao et.al.|[2602.21645](https://arxiv.org/abs/2602.21645)|null|
+|**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](https://arxiv.org/abs/2602.21101)|null|
+|**2026-02-24**|**Monocular Endoscopic Tissue 3D Reconstruction with Multi-Level Geometry Regularization**|Yangsen Chen et.al.|[2602.20718](https://arxiv.org/abs/2602.20718)|null|
+|**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342](https://arxiv.org/abs/2602.20342)|null|
+|**2026-02-23**|**Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**|Yixin Yang et.al.|[2602.19916](https://arxiv.org/abs/2602.19916)|null|
+|**2026-02-21**|**PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**|Dan Wang et.al.|[2602.18886](https://arxiv.org/abs/2602.18886)|null|
+|**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](https://arxiv.org/abs/2602.18322)|null|
+|**2026-02-18**|**HS-3D- NeRF : 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](https://arxiv.org/abs/2602.16950)|null|
+|**2026-01-22**|**Three-dimensional Damage Visualization of Civil Structures via Gaussian Splatting-enabled Digital Twins**|Shuo Wang et.al.|[2602.16713](https://arxiv.org/abs/2602.16713)|null|
+|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](https://arxiv.org/abs/2602.16337)|null|
+|**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](https://arxiv.org/abs/2602.13909)|null|
+|**2026-02-13**|**Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting**|Tae-Kyeong Kim et.al.|[2602.13549](https://arxiv.org/abs/2602.13549)|null|
+|**2026-06-15**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](https://arxiv.org/abs/2602.08029)|null|
+|**2026-02-08**|**Deepfake Synthesis vs. Detection: An Uneven Contest**|Md. Tarek Hasan et.al.|[2602.07986](https://arxiv.org/abs/2602.07986)|null|
+|**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](https://arxiv.org/abs/2602.05822)|null|
+|**2026-02-05**|**NeVStereo: A NeRF -Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](https://arxiv.org/abs/2602.05423)|null|
+|**2026-03-26**|**Wid3R: Wide Field-of-View 3D Reconstruction via Camera Model Conditioning**|Dongki Jung et.al.|[2602.05321](https://arxiv.org/abs/2602.05321)|null|
+|**2026-02-03**|**Beyond Cropping and Rotation: Automated Evolution of Powerful Task-Specific Augmentations with Generative Models**|Judah Goldfeder et.al.|[2602.03123](https://arxiv.org/abs/2602.03123)|null|
+|**2026-04-30**|**EAG-PT: Emission-Aware Gaussians and Path Tracing for Diffuse Indoor Scene Reconstruction and Editing**|Xijie Yang et.al.|[2601.23065](https://arxiv.org/abs/2601.23065)|null|
+|**2026-02-02**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](https://arxiv.org/abs/2601.22861)|null|
+|**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808](https://arxiv.org/abs/2601.22808)|null|
+|**2026-02-12**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](https://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](https://arxiv.org/abs/2601.21269)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](https://arxiv.org/abs/2601.19753)|null|
+|**2026-04-29**|**Bridging Visual and Wireless Sensing via a Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](https://arxiv.org/abs/2601.19216)|null|
+|**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](https://arxiv.org/abs/2601.18849)|null|
+|**2026-01-25**|**MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance**|Yoonwoo Jeong et.al.|[2601.17866](https://arxiv.org/abs/2601.17866)|null|
+|**2026-01-24**|**NeRF -MIR: Towards High-Quality Restoration of Masked Images with Neural Radiance Fields**|Xianliang Huang et.al.|[2601.17350](https://arxiv.org/abs/2601.17350)|null|
+|**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](https://arxiv.org/abs/2601.16487)|null|
+|**2026-04-02**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](https://arxiv.org/abs/2601.15475)|null|
+|**2026-01-21**|**GAT- NeRF : Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](https://arxiv.org/abs/2601.14875)|null|
+|**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](https://arxiv.org/abs/2601.14821)|null|
+|**2026-03-13**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](https://arxiv.org/abs/2601.12823)|null|
+|**2026-01-10**|**HOSC: A Periodic Activation with Saturation Control for High-Fidelity Implicit Neural Representations**|Michal Jan Wlodarczyk et.al.|[2601.07870](https://arxiv.org/abs/2601.07870)|null|
+|**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](https://arxiv.org/abs/2601.05250)|null|
+|**2026-06-29**|**DivAS: Interactive 3D Segmentation by Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](https://arxiv.org/abs/2601.04860)|null|
+|**2026-01-11**|**Radiant Foam Rendering on a Graph Processor**|Zulkhuu Tuya et.al.|[2601.04382](https://arxiv.org/abs/2601.04382)|null|
+|**2026-01-14**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](https://arxiv.org/abs/2601.03869)|null|
+|**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](https://arxiv.org/abs/2601.01431)|null|
+|**2025-12-31**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](https://arxiv.org/abs/2601.00207)|null|
+|**2025-12-20**|**Neural Brain Fields: A NeRF -Inspired Approach for Generating Nonexistent EEG Electrodes**|Shahar Ain Kedem et.al.|[2601.00012](https://arxiv.org/abs/2601.00012)|null|
+|**2026-04-04**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073](https://arxiv.org/abs/2512.25073)|null|
+|**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](https://arxiv.org/abs/2512.24763)|null|
+|**2026-03-12**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](https://arxiv.org/abs/2512.21692)|null|
+|**2025-12-24**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](https://arxiv.org/abs/2512.20129)|null|
+|**2026-01-29**|**Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**|Shahram Najam Syed et.al.|[2512.18237](https://arxiv.org/abs/2512.18237)|null|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](https://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](https://arxiv.org/abs/2512.16397)|null|
+|**2025-12-16**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](https://arxiv.org/abs/2512.15080)|null|
+|**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](https://arxiv.org/abs/2512.14406)|null|
+|**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](https://arxiv.org/abs/2512.14352)|null|
+|**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](https://arxiv.org/abs/2512.14095)|null|
+|**2026-03-14**|**Towards High-Fidelity Gaussian Splatting with Queried-Convolution Neural Networks**|Abhinav Kumar et.al.|[2512.12898](https://arxiv.org/abs/2512.12898)|null|
+|**2025-12-14**|**Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis**|Yeray Cordero et.al.|[2512.12683](https://arxiv.org/abs/2512.12683)|null|
+|**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](https://arxiv.org/abs/2512.10293)|null|
+|**2025-12-10**|**Log NeRF : Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](https://arxiv.org/abs/2512.09375)|null|
+|**2025-12-10**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](https://arxiv.org/abs/2512.09335)|null|
+|**2026-03-25**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](https://arxiv.org/abs/2512.08334)|null|
+|**2025-12-08**|**Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement**|Chia-Hern Lai et.al.|[2512.08215](https://arxiv.org/abs/2512.08215)|null|
+|**2026-04-08**|**From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images**|Fei Yu et.al.|[2512.07527](https://arxiv.org/abs/2512.07527)|null|
+|**2025-12-08**|**Radiance-Field Reinforced Pretraining: Scaling Localization Models with Unlabeled Wireless Signals**|Guosheng Wang et.al.|[2512.07309](https://arxiv.org/abs/2512.07309)|null|
+|**2026-03-24**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](https://arxiv.org/abs/2512.06438)|null|
+|**2025-12-04**|**Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization**|Hong Kuang et.al.|[2512.04542](https://arxiv.org/abs/2512.04542)|null|
+|**2025-12-03**|**Radiance Meshes for Volumetric Reconstruction**|Alexander Mai et.al.|[2512.04076](https://arxiv.org/abs/2512.04076)|null|
+|**2026-01-10**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Tianchen Deng et.al.|[2512.03422](https://arxiv.org/abs/2512.03422)|null|
+|**2026-05-04**|**Flux4D: Flow-based Unsupervised 4D Reconstruction**|Jingkang Wang et.al.|[2512.03210](https://arxiv.org/abs/2512.03210)|null|
+|**2025-12-02**|**PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes**|Derui Shan et.al.|[2512.02664](https://arxiv.org/abs/2512.02664)|null|
+|**2026-03-28**|**SplatSuRe: Selective Super-Resolution for Multi-view Consistent 3D Gaussian Splatting**|Pranav Asthana et.al.|[2512.02172](https://arxiv.org/abs/2512.02172)|null|
+|**2025-12-01**|**EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly**|Xiaokun Pan et.al.|[2512.01296](https://arxiv.org/abs/2512.01296)|null|
+|**2025-11-29**|**Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer**|Dong In Lee et.al.|[2512.00677](https://arxiv.org/abs/2512.00677)|null|
+|**2025-11-29**|**SplatFont3D: Structure-Aware Text-to-3D Artistic Font Generation with Part-Level Style Control**|Ji Gan et.al.|[2512.00413](https://arxiv.org/abs/2512.00413)|null|
+|**2025-11-28**|**Image Valuation in NeRF -based 3D reconstruction**|Grigorios Aris Cheimariotis et.al.|[2511.23052](https://arxiv.org/abs/2511.23052)|null|
+|**2025-11-28**|**MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**|Minseong Kweon et.al.|[2511.22997](https://arxiv.org/abs/2511.22997)|null|
+|**2025-12-01**|**DenoiseGS: Gaussian Reconstruction Model for Burst Denoising**|Yongsen Cheng et.al.|[2511.22939](https://arxiv.org/abs/2511.22939)|null|
+|**2026-03-20**|**3D-Consistent Multi-View Editing by Correspondence Guidance**|Josef Bengtson et.al.|[2511.22228](https://arxiv.org/abs/2511.22228)|null|
+|**2025-11-25**|**- NeRF : Incremental Refinement of Neural Radiance Fields through Residual Control and Knowledge Transfer**|Kriti Ghosh et.al.|[2511.20804](https://arxiv.org/abs/2511.20804)|null|
+|**2025-11-24**|**Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation**|Jaeyeong Kim et.al.|[2511.19542](https://arxiv.org/abs/2511.19542)|null|
+|**2026-05-03**|**MapRF: Weakly Supervised Online HD Map Construction via NeRF -Guided Self-Training**|Hongyu Lyu et.al.|[2511.19527](https://arxiv.org/abs/2511.19527)|null|
+|**2025-12-16**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
+|**2025-11-23**|**ReCoGS: Real-time ReColoring for Gaussian Splatting scenes**|Lorenzo Rutayisire et.al.|[2511.18441](https://arxiv.org/abs/2511.18441)|null|
+|**2025-11-23**|**AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization**|Shuai Zhang et.al.|[2511.18293](https://arxiv.org/abs/2511.18293)|null|
+|**2025-11-21**|**NoPe- NeRF ++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](https://arxiv.org/abs/2511.17322)|null|
+|**2026-03-27**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](https://arxiv.org/abs/2511.16542)|null|
+|**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](https://arxiv.org/abs/2511.14149)|null|
+|**2025-11-18**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935](https://arxiv.org/abs/2511.12935)|null|
+|**2025-11-16**|**OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding**|Artem Moroz et.al.|[2511.12614](https://arxiv.org/abs/2511.12614)|null|
+|**2025-11-15**|**LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors**|Qifeng Chen et.al.|[2511.12304](https://arxiv.org/abs/2511.12304)|null|
+|**2025-11-11**|**RePose- NeRF : Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses**|Sriram Srinivasan et.al.|[2511.08545](https://arxiv.org/abs/2511.08545)|null|
+|**2026-04-26**|**ISExplore:Informative Segment Selection for Efficient Personalized 3D Talking Face Generation**|Rui-Qing Sun et.al.|[2511.07940](https://arxiv.org/abs/2511.07940)|null|
+|**2025-11-10**|**Sparse4DGS: 4D Gaussian Splatting for Sparse-Frame Dynamic Scene Reconstruction**|Changyue Shi et.al.|[2511.07122](https://arxiv.org/abs/2511.07122)|null|
+|**2025-11-09**|**Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360° Scenes**|Shaoxiang Wang et.al.|[2511.06457](https://arxiv.org/abs/2511.06457)|null|
+|**2025-11-09**|**VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes**|Zhengyu Zou et.al.|[2511.06408](https://arxiv.org/abs/2511.06408)|null|
+|**2025-11-07**|**4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos**|Mengqi Guo et.al.|[2511.05229](https://arxiv.org/abs/2511.05229)|null|
+|**2025-11-07**|**Efficient representation of 3D spatial data for defense-related applications**|Benjamin Kahl et.al.|[2511.05109](https://arxiv.org/abs/2511.05109)|null|
+|**2025-11-06**|**3D Gaussian Point Encoders**|Jim James et.al.|[2511.04797](https://arxiv.org/abs/2511.04797)|null|
+|**2025-12-05**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](https://arxiv.org/abs/2511.04283)|null|
+|**2025-11-04**|**LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization**|Jee Won Lee et.al.|[2511.02510](https://arxiv.org/abs/2511.02510)|null|
+|**2025-11-03**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](https://arxiv.org/abs/2511.02207)|null|
+|**2025-10-31**|**SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction**|Wenfeng Huang et.al.|[2510.27318](https://arxiv.org/abs/2510.27318)|null|
+|**2025-10-29**|**4-Doodle: Text to 3D Sketches that Move!**|Hao Chen et.al.|[2510.25319](https://arxiv.org/abs/2510.25319)|null|
+|**2025-10-25**|**I2- NeRF : Learning Neural Radiance Fields Under Physically-Grounded Media Interactions**|Shuhong Liu et.al.|[2510.22161](https://arxiv.org/abs/2510.22161)|null|
+|**2026-03-19**|**From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail**|Xiaohan Sun et.al.|[2510.20558](https://arxiv.org/abs/2510.20558)|null|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](https://arxiv.org/abs/2510.20027)|null|
+|**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](https://arxiv.org/abs/2510.19371)|null|
+|**2026-06-15**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao et.al.|[2510.19255](https://arxiv.org/abs/2510.19255)|null|
+|**2025-11-10**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](https://arxiv.org/abs/2510.14270)|null|
+|**2026-03-28**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](https://arxiv.org/abs/2510.12901)|null|
+|**2026-02-26**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](https://arxiv.org/abs/2510.12099)|null|
+|**2025-10-13**|**Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency**|Yuxin Cheng et.al.|[2510.10993](https://arxiv.org/abs/2510.10993)|null|
+|**2026-03-10**|**Asset-Centric Metric-Semantic Maps of Indoor Environments**|Christopher D. Hsu et.al.|[2510.10778](https://arxiv.org/abs/2510.10778)|null|
+|**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](https://arxiv.org/abs/2510.10257)|null|
+|**2025-10-26**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](https://arxiv.org/abs/2510.10097)|null|
+|**2026-05-03**|**Geometry-Aware Scene Configurations for Novel View Synthesis**|Minkwan Kim et.al.|[2510.09880](https://arxiv.org/abs/2510.09880)|null|
+|**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin et.al.|[2510.09586](https://arxiv.org/abs/2510.09586)|null|
+|**2025-10-10**|**HERO: Hardware-Efficient RL-based Optimization Framework for NeRF Quantization**|Yipu Zhang et.al.|[2510.09010](https://arxiv.org/abs/2510.09010)|null|
+|**2025-10-08**|**An Energy-Efficient Edge Coprocessor for Neural Rendering with Explicit Data Reuse Strategies**|Binzhe Yuan et.al.|[2510.07667](https://arxiv.org/abs/2510.07667)|null|
+|**2025-12-03**|**ROGR: Relightable 3D Objects using Generative Relighting**|Jiapeng Tang et.al.|[2510.03163](https://arxiv.org/abs/2510.03163)|null|
+|**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](https://arxiv.org/abs/2510.02314)|null|
+|**2025-10-01**|**Multi-level Dynamic Style Transfer for NeRFs**|Zesheng Li et.al.|[2510.00592](https://arxiv.org/abs/2510.00592)|null|
+|**2025-10-08**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](https://arxiv.org/abs/2509.25191)|null|
+|**2025-10-02**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](https://arxiv.org/abs/2509.25075)|null|
+|**2025-09-27**|**From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations**|Javed Ahmad et.al.|[2509.23555](https://arxiv.org/abs/2509.23555)|null|
+|**2025-10-04**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](https://arxiv.org/abs/2509.23258)|null|
+|**2026-01-28**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](https://arxiv.org/abs/2509.19073)|null|
+|**2025-09-23**|**Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting**|Zijing Guo et.al.|[2509.18956](https://arxiv.org/abs/2509.18956)|null|
+|**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](https://arxiv.org/abs/2509.17789)|null|
+|**2025-09-21**|**DT- NeRF : A Diffusion and Transformer-Based Optimization Approach for Neural Radiance Fields in 3D Reconstruction**|Bo Liu et.al.|[2509.17232](https://arxiv.org/abs/2509.17232)|null|
+|**2025-09-22**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](https://arxiv.org/abs/2509.17083)|null|
+|**2025-09-21**|**PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**|Tianheng Zhu et.al.|[2509.16922](https://arxiv.org/abs/2509.16922)|null|
+|**2025-10-23**|**MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild**|Deming Li et.al.|[2509.15548](https://arxiv.org/abs/2509.15548)|null|
+|**2025-09-17**|**ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images**|Jaydeep Rade et.al.|[2509.15242](https://arxiv.org/abs/2509.15242)|null|
+|**2025-09-19**|**RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes**|Fang Li et.al.|[2509.15123](https://arxiv.org/abs/2509.15123)|null|
+|**2025-10-20**|**NeRF -based Visualization of 3D Cues Supporting Data-Driven Spacecraft Pose Estimation**|Antoine Legrand et.al.|[2509.14890](https://arxiv.org/abs/2509.14890)|null|
+|**2026-05-13**|**SuNeRF-CME: Physics-Informed Neural Radiance Fields for Tomographic Reconstruction of Coronal Mass Ejections**|Robert Jarolim et.al.|[2509.13571](https://arxiv.org/abs/2509.13571)|null|
+|**2025-09-16**|**Exploring Metric Fusion for Evaluation of NeRFs**|Shreyas Shivakumara et.al.|[2509.12836](https://arxiv.org/abs/2509.12836)|null|
+|**2025-10-21**|**Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles**|Àlmos Veres-Vitàlyos et.al.|[2509.12458](https://arxiv.org/abs/2509.12458)|null|
+|**2025-09-14**|**ROSGS: Relightable Outdoor Scenes With Gaussian Splatting**|Lianjun Liao et.al.|[2509.11275](https://arxiv.org/abs/2509.11275)|null|
+|**2025-11-11**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](https://arxiv.org/abs/2509.11171)|null|
+|**2025-11-10**|**Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.|[2509.11169](https://arxiv.org/abs/2509.11169)|null|
+|**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](https://arxiv.org/abs/2509.07809)|null|
+|**2025-09-21**|**Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](https://arxiv.org/abs/2509.07493)|null|
+|**2025-09-02**|**GS-TG: 3D Gaussian Splatting Accelerator with Tile Grouping for Reducing Redundant Sorting while Preserving Rasterization Efficiency**|Joongho Jo et.al.|[2509.00911](https://arxiv.org/abs/2509.00911)|null|
+|**2026-04-21**|**Semantic-guided Gaussian Splatting for High-Fidelity Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2509.00800](https://arxiv.org/abs/2509.00800)|null|
+|**2025-08-28**|**Adam SLAM - the last mile of camera calibration with 3DGS**|Matthieu Gendrin et.al.|[2508.20526](https://arxiv.org/abs/2508.20526)|null|
+|**2025-08-26**|**Can we make NeRF -based visual localization privacy-preserving?**|Maxime Pietrantoni et.al.|[2508.18971](https://arxiv.org/abs/2508.18971)|null|
+|**2025-08-28**|**Generating Human-AI Collaborative Design Sequence for 3D Assets via Differentiable Operation Graph**|Xiaoyang Huang et.al.|[2508.17645](https://arxiv.org/abs/2508.17645)|null|
+|**2025-08-23**|**Align 3D Representation and Text Embedding for 3D Content Personalization**|Qi Song et.al.|[2508.16932](https://arxiv.org/abs/2508.16932)|null|
+|**2025-08-20**|**GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels**|Xingyuan Yang et.al.|[2508.14563](https://arxiv.org/abs/2508.14563)|null|
+|**2025-08-19**|**Is- NeRF : In-scattering Neural Radiance Field for Blurred Images**|Nan Luo et.al.|[2508.13808](https://arxiv.org/abs/2508.13808)|null|
+|**2025-08-17**|**PreSem-Surf: RGB-D Surface Reconstruction with Progressive Semantic Modeling and SG-MLP Pre-Rendering Mechanism**|Yuyan Ye et.al.|[2508.13228](https://arxiv.org/abs/2508.13228)|null|
+|**2025-08-16**|**RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis**|Wenqing Wang et.al.|[2508.12163](https://arxiv.org/abs/2508.12163)|null|
+|**2026-06-15**|**A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation**|Shuting He et.al.|[2508.09977](https://arxiv.org/abs/2508.09977)|null|
+|**2025-08-13**|**PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image**|Geonhee Sim et.al.|[2508.09973](https://arxiv.org/abs/2508.09973)|null|
+|**2025-08-13**|**Surg-InvNeRF: Invertible NeRF for 3D tracking and reconstruction in surgical vision**|Gerardo Loza et.al.|[2508.09681](https://arxiv.org/abs/2508.09681)|null|
+|**2025-08-12**|**MonoPartNeRF:Human Reconstruction from Monocular Video via Part-Based Neural Radiance Fields**|Yao Lu et.al.|[2508.08798](https://arxiv.org/abs/2508.08798)|null|
+|**2026-01-06**|**SAGOnline: Segment Any Gaussians Online**|Wentao Sun et.al.|[2508.08219](https://arxiv.org/abs/2508.08219)|null|
+|**2025-08-10**|**3D Gaussian Representations with Motion Trajectory Field for Dynamic Scene Reconstruction**|Xuesong Li et.al.|[2508.07182](https://arxiv.org/abs/2508.07182)|null|
+|**2025-08-08**|**CoDe- NeRF : Neural Rendering via Dynamic Coefficient Decomposition**|Wenpeng Xing et.al.|[2508.06632](https://arxiv.org/abs/2508.06632)|null|
+|**2025-08-08**|**UW-3DGS: Underwater 3D Reconstruction with Physics-Aware Gaussian Splatting**|Wenpeng Xing et.al.|[2508.06169](https://arxiv.org/abs/2508.06169)|null|
+|**2025-09-17**|**Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation**|YoungChan Choi et.al.|[2508.06136](https://arxiv.org/abs/2508.06136)|null|
+|**2025-08-07**|**MZEN: Multi-Zoom Enhanced NeRF for 3-D Reconstruction with Unknown Camera Poses**|Jong-Ik Park et.al.|[2508.05819](https://arxiv.org/abs/2508.05819)|null|
+|**2025-08-07**|**Refining Gaussian Splatting: A Volumetric Densification Approach**|Mohamed Abdul Gafoor et.al.|[2508.05187](https://arxiv.org/abs/2508.05187)|null|
+|**2025-08-18**|**A Study of the Framework and Real-World Applications of Language Embedding for 3D Scene Understanding**|Mahmoud Chick Zaouali et.al.|[2508.05064](https://arxiv.org/abs/2508.05064)|null|
+|**2025-08-07**|**Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research**|Ke Li et.al.|[2508.04326](https://arxiv.org/abs/2508.04326)|null|
+|**2025-10-23**|**MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction**|Yaopeng Lou et.al.|[2508.04297](https://arxiv.org/abs/2508.04297)|null|
+|**2026-01-31**|**Affine-Equivariant Kernel Space Encoding for NeRF Editing**|Mikołaj Zieliński et.al.|[2508.02831](https://arxiv.org/abs/2508.02831)|null|
+|**2025-08-04**|**ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering**|Fangxin Liu et.al.|[2508.02304](https://arxiv.org/abs/2508.02304)|null|
+|**2025-08-01**|**Cooperative Perception: A Resource-Efficient Framework for Multi-Drone 3D Scene Reconstruction Using Federated Diffusion and NeRF**|Massoud Pourmandi et.al.|[2508.00967](https://arxiv.org/abs/2508.00967)|null|
+|**2025-07-31**|**NeRF Is a Valuable Assistant for 3D Gaussian Splatting**|Shuangkang Fang et.al.|[2507.23374](https://arxiv.org/abs/2507.23374)|null|
+|**2026-07-06**|**Adaptive Time-step Training for Enhancing Spike-Based Neural Radiance Fields**|Ranxi Lin et.al.|[2507.23033](https://arxiv.org/abs/2507.23033)|null|
+|**2025-07-28**|**DEM- NeRF : A Neuro-Symbolic Method for Scientific Discovery through Physics-Informed Simulation**|Wenkai Tan et.al.|[2507.21350](https://arxiv.org/abs/2507.21350)|null|
+|**2025-07-26**|**NeuroVoxel-LM: Language-Aligned 3D Perception via Dynamic Voxelization and Meta-Embedding**|Shiyu Liu et.al.|[2507.20110](https://arxiv.org/abs/2507.20110)|null|
+|**2025-07-25**|**DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations**|Ziren Gong et.al.|[2507.19474](https://arxiv.org/abs/2507.19474)|null|
+|**2025-07-25**|**Fast Learning of Non-Cooperative Spacecraft 3D Models through Primitive Initialization**|Pol Francesch Huc et.al.|[2507.19459](https://arxiv.org/abs/2507.19459)|null|
+|**2025-07-25**|**NerT-CA: Efficient Dynamic Reconstruction from Sparse-view X-ray Coronary Angiography**|Kirsten W. H. Maas et.al.|[2507.19328](https://arxiv.org/abs/2507.19328)|null|
+|**2026-05-02**|**SaLF: Sparse Local Fields for Multi-Sensor Rendering in Real-Time**|Yun Chen et.al.|[2507.18713](https://arxiv.org/abs/2507.18713)|null|
+|**2025-07-23**|**High-fidelity 3D Gaussian Inpainting: preserving multi-view consistency and photorealistic details**|Jun Zhou et.al.|[2507.18023](https://arxiv.org/abs/2507.18023)|null|
+|**2025-07-23**|**Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field**|Yuzhe Zhu et.al.|[2507.17351](https://arxiv.org/abs/2507.17351)|null|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](https://arxiv.org/abs/2507.16406)|null|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](https://arxiv.org/abs/2507.14596)|null|
+|**2025-12-21**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](https://arxiv.org/abs/2507.14501)|null|
+|**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](https://arxiv.org/abs/2507.13929)|null|
+|**2026-01-19**|**PositionIC: Unified Position and Identity Consistency for Image Customization**|Junjie Hu et.al.|[2507.13861](https://arxiv.org/abs/2507.13861)|null|
+|**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](https://arxiv.org/abs/2507.13648)|null|
+|**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](https://arxiv.org/abs/2507.12132)|null|
+|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](https://arxiv.org/abs/2507.11971)|null|
+|**2025-12-12**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](https://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](https://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF -driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](https://arxiv.org/abs/2507.09005)|null|
+|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](https://arxiv.org/abs/2507.07519)|null|
+|**2025-09-04**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](https://arxiv.org/abs/2507.06269)|null|
+|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](https://arxiv.org/abs/2507.06103)|null|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](https://arxiv.org/abs/2507.05763)|null|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](https://arxiv.org/abs/2507.04408)|null|
+|**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](https://arxiv.org/abs/2507.02900)|null|
+|**2025-07-31**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](https://arxiv.org/abs/2507.01631)|null|
+|**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](https://arxiv.org/abs/2507.00969)|null|
+|**2025-10-25**|**PlantSegNeRF: A few-shot, cross-species method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](https://arxiv.org/abs/2507.00371)|null|
+|**2026-06-16**|**TextMesh4D: Zero-shot Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](https://arxiv.org/abs/2506.24121)|null|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](https://arxiv.org/abs/2506.23611)|null|
 |**2025-06-29**|**Dynamic View Synthesis from Small Camera Motion Videos**|Huiqiang Sun et.al.|[2506.23153](http://arxiv.org/abs/2506.23153)|null|
 |**2025-06-27**|**UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**|Fabian Perez et.al.|[2506.21884](http://arxiv.org/abs/2506.21884)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|

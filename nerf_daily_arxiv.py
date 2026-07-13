@@ -6,10 +6,13 @@ import yaml
 import logging
 import argparse
 import datetime
+import subprocess
 from types import SimpleNamespace
+from urllib.parse import urlencode
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -20,6 +23,9 @@ github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 request_timeout = 20
 rss_url = "https://rss.arxiv.org/rss/cs.CV"
+arxiv_search_url = "https://arxiv.org/search/"
+user_agent = "nerf-arxiv-daily/1.0 (wangqian@nudt.edu.cn)"
+code_lookup_available = True
 
 def load_config(config_file:str) -> dict:
     '''
@@ -93,7 +99,7 @@ def get_rss_results(query:str, max_results:int):
     response = requests.get(
         rss_url,
         timeout=request_timeout,
-        headers={"User-Agent": "nerf-arxiv-daily/1.0 (wangqian@nudt.edu.cn)"},
+        headers={"User-Agent": user_agent},
     )
     response.raise_for_status()
     feed = feedparser.parse(response.content)
@@ -132,6 +138,97 @@ def get_rss_results(query:str, max_results:int):
         if len(results) >= max_results:
             break
     return results
+
+def get_search_results(query:str, max_results:int):
+    """Fetch recent papers from arXiv's official HTML search interface."""
+    results = []
+    if max_results <= 50:
+        page_size = 50
+    elif max_results <= 100:
+        page_size = 100
+    else:
+        page_size = 200
+    start = 0
+    while len(results) < max_results:
+        params = {
+            "query": query,
+            "searchtype": "all",
+            "abstracts": "show",
+            "order": "-announced_date_first",
+            "size": page_size,
+            "start": start,
+        }
+        try:
+            response = requests.get(
+                arxiv_search_url,
+                params=params,
+                timeout=30,
+                headers={"User-Agent": user_agent},
+            )
+            response.raise_for_status()
+            html = response.text
+        except requests.RequestException as error:
+            logging.warning(f"Python HTTP client failed ({error}); retrying with curl")
+            try:
+                completed = subprocess.run(
+                    [
+                        "curl", "--fail", "--location", "--silent", "--show-error",
+                        "--max-time", "30", "--user-agent", user_agent,
+                        f"{arxiv_search_url}?{urlencode(params)}",
+                    ],
+                    check=True,
+                    capture_output=True,
+                    text=True,
+                    timeout=35,
+                )
+            except (OSError, subprocess.SubprocessError) as curl_error:
+                raise RuntimeError(f"curl search fallback failed: {curl_error}") from curl_error
+            html = completed.stdout
+        soup = BeautifulSoup(html, "html.parser")
+        items = soup.select("li.arxiv-result")
+        if not items:
+            break
+
+        for item in items:
+            link = item.select_one('p.list-title a[href*="/abs/"]')
+            title_element = item.select_one("p.title")
+            if link is None or title_element is None:
+                continue
+            paper_url = link.get("href", "")
+            paper_id = paper_url.rstrip("/").rsplit("/", 1)[-1]
+            authors = [author.get_text(" ", strip=True) for author in item.select("p.authors a")]
+            abstract_element = item.select_one("span.abstract-full") or item.select_one("p.abstract")
+            summary = abstract_element.get_text(" ", strip=True) if abstract_element else ""
+            date_element = next(
+                (element for element in item.select("p.is-size-7") if "Submitted" in element.get_text()),
+                None,
+            )
+            date_match = re.search(
+                r"Submitted\s+(\d{1,2}\s+\w+,\s+\d{4})",
+                date_element.get_text(" ", strip=True) if date_element else "",
+            )
+            published_dt = (
+                datetime.datetime.strptime(date_match.group(1), "%d %B, %Y")
+                if date_match else datetime.datetime.now()
+            )
+            category = item.select_one("span.tag")
+            results.append(SimpleNamespace(
+                get_short_id=lambda paper_id=paper_id: paper_id,
+                title=title_element.get_text(" ", strip=True),
+                entry_id=paper_url,
+                summary=summary,
+                authors=authors or ["Unknown"],
+                primary_category=category.get_text(strip=True) if category else "cs.CV",
+                published=published_dt,
+                updated=published_dt,
+                comment=None,
+            ))
+            if len(results) >= max_results:
+                break
+        if len(items) < page_size:
+            break
+        start += len(items)
+    return results
   
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -148,16 +245,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    # arxiv 4.x removed Search.results(); Client.results() is the supported API.
-    client = arxiv.Client(page_size=max_results)
-    client._session.headers.update({
-        "User-Agent": "nerf-arxiv-daily/1.0 (wangqian@nudt.edu.cn)"
-    })
     try:
-        results = list(client.results(search_engine))
-    except arxiv.ArxivError as error:
-        logging.warning(f"arXiv search API failed ({error}); falling back to RSS")
-        results = get_rss_results(query, max_results)
+        results = get_search_results(query, max_results)
+    except (requests.RequestException, ValueError, RuntimeError) as search_error:
+        logging.warning(f"arXiv HTML search failed ({search_error}); trying the API")
+        # arxiv 4.x removed Search.results(); Client.results() is the supported API.
+        client = arxiv.Client(page_size=max_results)
+        client._session.headers.update({"User-Agent": user_agent})
+        try:
+            results = list(client.results(search_engine))
+        except arxiv.ArxivError as api_error:
+            logging.warning(f"arXiv API failed ({api_error}); falling back to RSS")
+            results = get_rss_results(query, max_results)
 
     for result in results:
 
@@ -183,17 +282,20 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
+        global code_lookup_available
         repo_url = None
         try:
             # Source-code metadata is optional; a lookup failure must not drop
             # an otherwise valid paper from the daily list.
-            response = requests.get(code_url, timeout=request_timeout)
-            response.raise_for_status()
-            r = response.json()
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            if code_lookup_available:
+                response = requests.get(code_url, timeout=request_timeout)
+                response.raise_for_status()
+                r = response.json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
         except (requests.RequestException, ValueError, KeyError, TypeError) as e:
             logging.warning(f"code lookup failed: {e} with id: {paper_key}")
+            code_lookup_available = False
 
         if repo_url is not None:
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
@@ -495,8 +597,12 @@ if __name__ == "__main__":
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+                        action="store_true",help='whether to update paper links etc.')
+    parser.add_argument('--max_results', type=int,
+                        help='override the configured number of search results')
     args = parser.parse_args()
     config = load_config(args.config_path)
+    if args.max_results is not None:
+        config['max_results'] = args.max_results
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
