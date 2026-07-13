@@ -457,9 +457,9 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
+            f.write("## Last checked on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Last checked on " + DateNow + "\n")
 
         # TODO: add usage
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
@@ -503,7 +503,7 @@ def json_to_md(filename,md_filename,
             
             #Add: back to top
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
+                top_info = f"#Last checked on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
                 
