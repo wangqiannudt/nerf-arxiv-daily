@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](https://arxiv.org/abs/2607.21675)|null|
 |**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](https://arxiv.org/abs/2607.21485)|null|
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](https://arxiv.org/abs/2607.18067)|null|
 |**2026-07-20**|**Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment**|Yuxuan Tao et.al.|[2607.17916](https://arxiv.org/abs/2607.17916)|null|
