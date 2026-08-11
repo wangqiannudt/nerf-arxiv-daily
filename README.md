@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**GLocFM: A Geometry-Aware Foundation Model for 3D Indoor Wireless Localization**|Chenghong Bian et.al.|[2608.09285](https://arxiv.org/abs/2608.09285)|null|
+|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](https://arxiv.org/abs/2608.09146)|null|
+|**2026-08-10**|**View-Adaptive Renderer for View-Consistent 2D-to-3D Generation**|U-Chae Jun et.al.|[2608.09110](https://arxiv.org/abs/2608.09110)|null|
 |**2026-08-09**|**ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints**|Xiaoyang Bai et.al.|[2608.08531](https://arxiv.org/abs/2608.08531)|null|
 |**2026-08-08**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](https://arxiv.org/abs/2608.08381)|null|
 |**2026-08-02**|**UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys**|Junxiong Zhou et.al.|[2608.06404](https://arxiv.org/abs/2608.06404)|null|
