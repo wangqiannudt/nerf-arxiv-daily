@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-29**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz, Aaron Y. Zhao, Maitrey Gramopadhye, Sawyer J. Lazar, Xianming Tan, Daniel Szafir, David S. Lawrence et.al.|[2608.27301](https://arxiv.org/abs/2608.27301)|null|
+|**2026-08-27**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz et.al.|[2608.27301](https://arxiv.org/abs/2608.27301)|null|
 |**2026-08-26**|**Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots**|Yongho Kim et.al.|[2608.26383](https://arxiv.org/abs/2608.26383)|null|
 |**2026-08-26**|**PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction**|Mary Raymond et.al.|[2608.25401](https://arxiv.org/abs/2608.25401)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](https://arxiv.org/abs/2608.23549)|null|
