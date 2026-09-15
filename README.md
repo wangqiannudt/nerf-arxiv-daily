@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections**|Deyu Meng et.al.|[2609.15550](https://arxiv.org/abs/2609.15550)|null|
 |**2026-09-13**|**What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation**|Sariah Patro et.al.|[2609.14899](https://arxiv.org/abs/2609.14899)|null|
 |**2026-09-13**|**CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2609.14521](https://arxiv.org/abs/2609.14521)|null|
 |**2026-09-10**|**Is Gaussian Splatting Becoming Neural Again? A Taxonomy and Controlled Study of Learned Parameterization**|YuanHang Wang et.al.|[2609.12395](https://arxiv.org/abs/2609.12395)|null|
