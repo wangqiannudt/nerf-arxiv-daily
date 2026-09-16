@@ -17,9 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-15**|**Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections**|Deyu Meng, Mojtaba Lashgari, Yiying Wang, Abhirup Banerjee et.al.|[2609.15550](https://arxiv.org/abs/2609.15550)|null|
-|**2026-09-15**|**What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation**|Sariah Patro, Arjun Mehra, Nikhil Bhatia et.al.|[2609.14899](https://arxiv.org/abs/2609.14899)|null|
-|**2026-09-15**|**CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction**|Zhirui Gao, Renjiao Yi, Yunfan Ye, Ruizhen Hu, Chenyang Zhu, Wei Chen, Kai Xu et.al.|[2609.14521](https://arxiv.org/abs/2609.14521)|null|
+|**2026-07-15**|**Talking Head Synthesis with Facial Landmark Guidance via 3D Gaussian Splatting**|Ziheng Yang et.al.|[2609.17422](https://arxiv.org/abs/2609.17422)|null|
+|**2026-09-14**|**Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections**|Deyu Meng et.al.|[2609.15550](https://arxiv.org/abs/2609.15550)|null|
+|**2026-09-13**|**What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation**|Sariah Patro et.al.|[2609.14899](https://arxiv.org/abs/2609.14899)|null|
+|**2026-09-13**|**CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2609.14521](https://arxiv.org/abs/2609.14521)|null|
 |**2026-09-10**|**Is Gaussian Splatting Becoming Neural Again? A Taxonomy and Controlled Study of Learned Parameterization**|YuanHang Wang et.al.|[2609.12395](https://arxiv.org/abs/2609.12395)|null|
 |**2026-09-10**|**3D Point Splatting for mmWave Radar Novel View Synthesis**|Adnan Armouti et.al.|[2609.11894](https://arxiv.org/abs/2609.11894)|null|
 |**2026-09-09**|**View-Structured Conformal Prediction for 3D Gaussian Splatting**|Junzheng Chu et.al.|[2609.10307](https://arxiv.org/abs/2609.10307)|null|
