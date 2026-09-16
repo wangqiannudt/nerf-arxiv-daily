@@ -45,7 +45,7 @@
 |**2026-08-18**|**Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds**|Bernardo Taveira et.al.|[2608.17682](https://arxiv.org/abs/2608.17682)|null|
 |**2026-08-17**|**3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation**|Laurent Vit et.al.|[2608.17298](https://arxiv.org/abs/2608.17298)|null|
 |**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](https://arxiv.org/abs/2608.16863)|null|
-|**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](https://arxiv.org/abs/2608.16324)|null|
+|**2026-09-16**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](https://arxiv.org/abs/2608.16324)|null|
 |**2026-08-15**|**HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions**|Benjamin T. Hughes et.al.|[2608.15420](https://arxiv.org/abs/2608.15420)|null|
 |**2026-08-17**|**Owner3D: Ownership-Guided Style Writing for Training-Free Localized 3D Stylization**|Suchang Tao, Kaifeng Shi, Zhiyan Liu, Zhuoyuan Jiang, Yuqi Ouyang et.al.|[2608.14078](https://arxiv.org/abs/2608.14078)|null|
 |**2026-08-12**|**TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer**|Muxin Zhang et.al.|[2608.12175](https://arxiv.org/abs/2608.12175)|null|
