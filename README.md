@@ -17,9 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-09**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch, Min-Hsin Tu, David J. Chapman, Daniel E. Eakins et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
-|**2026-10-09**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang, Yonghao Zhao, Jian Yang, Beibei Wang et.al.|[2610.11198](https://arxiv.org/abs/2610.11198)|null|
-|**2026-10-09**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias, Filipe Nascimento, Kiyohiro Nakayama, Jo\~ao Paulo Lima, M\'arcus Lobo, Gordon Wetzstein, Leonidas Guibas, Afonso Paiva, Tiago Novello et.al.|[2610.11011](https://arxiv.org/abs/2610.11011)|null|
+|**2026-10-08**|**OX- NeRF : 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](https://arxiv.org/abs/2610.11198)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](https://arxiv.org/abs/2610.11011)|null|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](https://arxiv.org/abs/2610.10387)|null|
 |**2026-10-06**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](https://arxiv.org/abs/2610.09343)|null|
 |**2026-10-05**|**When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends**|Haewoon Kwak et.al.|[2610.07427](https://arxiv.org/abs/2610.07427)|null|
