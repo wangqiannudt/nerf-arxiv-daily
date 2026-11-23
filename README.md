@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Last checked on 2026.11.22
+## Last checked on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Nicholas Jing Shou Nge et.al.|[2611.27525](https://arxiv.org/abs/2611.27525)|null|
+|**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Ke Luo et.al.|[2611.27224](https://arxiv.org/abs/2611.27224)|null|
 |**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](https://arxiv.org/abs/2611.26321)|null|
 |**2026-11-19**|**AGSR: Aperture-Guided Super-Resolution for Gaussian Splatting**|Ayman Alkhateeb et.al.|[2611.25934](https://arxiv.org/abs/2611.25934)|null|
 |**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](https://arxiv.org/abs/2611.25523)|null|
@@ -1628,7 +1630,7 @@
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 
-<p align=right>(<a href=#last-checked-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#last-checked-on-20261123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AliTheFox86/nerf-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AliTheFox86/nerf-arxiv-daily/graphs/contributors
