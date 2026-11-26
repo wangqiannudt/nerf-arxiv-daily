@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**ProPolar: Progressive Polar Decomposition for Implicit Neural Representations**|Pureum Kim et.al.|[2611.33567](https://arxiv.org/abs/2611.33567)|null|
+|**2026-11-24**|**FOCI: Trajectory Optimization on Gaussian Splats for Gaussian Robots**|Mario Gomez Andreu et.al.|[2611.33380](https://arxiv.org/abs/2611.33380)|null|
 |**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Nicholas Jing Shou Nge et.al.|[2611.27525](https://arxiv.org/abs/2611.27525)|null|
 |**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Ke Luo et.al.|[2611.27224](https://arxiv.org/abs/2611.27224)|null|
 |**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](https://arxiv.org/abs/2611.26321)|null|
